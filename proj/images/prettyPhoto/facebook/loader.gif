@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="en">
+<!--<![endif]-->
+<head>
+
+<!-- Basic Page Needs ================================================== 
+================================================== -->
+
+<meta charset="utf-8">
+<title>Learning Styles</title>
+<meta name="description" content="Place to put your description text">
+<meta name="author" content="">
+<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+<!-- Mobile Specific Metas ================================================== 
+================================================== -->
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+
+<!-- CSS ==================================================
+================================================== -->
+
+<link rel="stylesheet" href="css/base.css">
+<link rel="stylesheet" href="css/skeleton.css">
+<link rel="stylesheet" href="css/screen.css">
+<link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="screen" />
+<link rel="sytlesheet" href="css/register.css">
+
+<!-- Favicons ==================================================
+================================================== -->
+
+<link rel="shortcut icon" href="images/favicon.png">
+<link rel="leaf" href="images/leaf.jpg">
+<link rel="leaf" sizes="329x233" href="images/leaf.jpg">
+<link rel="leaf" sizes="329x233" href="images/leaf.jpg">
+
+<!-- Google Fonts ==================================================
+================================================== -->
+
+<link href='http://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+</head>
+<body>
+
+<!-- Home - Content Part ==================================================
+================================================== -->
+<div id="header">
+  <div class="container header"> 
+    <!-- Header | Logo, Menu
+		================================================== -->
+    <header>
+      <div class="logo"><a href="index.php"><img src="images/leaf.png" alt="" /></a></div>
+      <div class="mainmenu">
+        <div id="mainmenu">
+          <ul class="sf-menu">
+            <li><a href="index.php"><span class="home"><img src="images/home.png" alt="" /></span>Home</a></li>
+			<li><a href="login.php" id="visited"><span class="home"><img src="images/about.

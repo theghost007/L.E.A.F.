@@ -1,0 +1,54 @@
+
+  <!-- Learning Styles Description -->
+  <h2>Learning Styles Description</h2>
+  <div class="toggle-trigger">Activist-Reflector</div>
+  <div class="toggle-container">
+   <p align='justify'>
+   Activist leaners are those whose makes immediate experiences of the data and facts or we can say that the make their own experiences. Reflector leaners are those learners who learn by watching others, thinking and observing    the redefined data. The activist leaners are ones who involves themselves completely into the tasks and does whatever is required to understand the topic. On the other hand the  reflector leaners  observe the sidelines and  then collect the data about the related data.</p>
+  </div>
+  <div class="toggle-trigger">Experience-Conceptualization</div>
+  <div class="toggle-container">
+    <p align='justify'>
+	There are many different kind of learners some gain by doing hands of practice and some by using their own experience after doing the thing.The experience learners use the predefined theories and facts that are well known by us. The students who prefers conceptualization studying styles make their own observations and by these experience they form their own theories. The students who prefers their own learning ways and methods are experience learners.  </p>
+  </div>
+  <div class="toggle-trigger">Social-Solo</div>
+  <div class="toggle-container">
+    <p align='justify'>The social leaners are those that make the learning by studying in groups or being a part of an event. The solo leaners are those who prefers to study alone and quiet. While being a part of group discussion may not help them other than it can make the students divert from their topics and discussion goes on some other level ,whereas the social leaners will prefer group discussion and will try to gain as much as knowledge possible from all the other speakers. The social leaners prefers team work and group studying for maximum knowledge and the solo leaners are independent and try to do self learning.   </p>
+  </div>
+  <div class="toggle-trigger">Theorist-Pragmatist</div>
+  <div class="toggle-container">
+    <p align='justify' >
+	The theorist leaners are adaptive leaners and they integrate their own observations into complex but logical theories.They have a sound knowledge about the theories that they have come up with and the logic implemented may also be correct.On the other hand the pragmatist leaners does case study of the data and implement them to any kind of practical application of  which that implementation can be done and observed. The theorist are step by step leaners and then implement it to the whole reading done yet.The pragmatist will try to use in any of practice possible.   </p>
+  </div>
+  <div class="toggle-trigger">Visualizing-Auditory</div>
+  <div class="toggle-container">
+    <p align='justify'>
+	There are some visual as well as auditory leaners that means that some can read things and perform them in betterment and some may perform the tasks by visual helps such as graphs and tables.The auditory students can understand the things when are being told about that or make them hear or read the facts.While others may be some that learns better if you show them the pictures about the facts and data,they try to memorize by seeing things in a better way.</p>
+  </div>
+  <!-- ENDS Toggle --> 
+</div>
+<p align="center">
+<a href="test.php"style="color: blue";>START TEST</a></button>
+</p>
+<div class="blankSeparator1"></div>
+<!--Footer ==================================================
+================================================== -->
+<div id="footer">
+  <div class="container footer">
+    <div class="one_fourth">
+      <h3>Latest Tweets</h3>
+      <div id="tweets"></div>
+    </div>
+    <div class="one_fourth">
+      <h3>Contact US</h3>
+      <ul>
+        <li class="lines"><a href="#" title="">Phone</a></li>
+        <li class="lines"><a href="#" class="">E-mail</a></li>
+      </ul>
+    </div>
+    <div class="one_fourth">
+      <h3>Archive</h3>
+      <ul>
+        <li class="lines"><a href="#" class="">Fedler Solomon test </a></li>
+        <li class="lines"><a href="#" class=""></a>Adaptive E-learning</li>
+        <li class="lines"><a href="#" class="">learning Systems

@@ -1,0 +1,290 @@
+ame; ?>">
+  	</div>
+  	<div class="input-group">
+  	  <label>Email</label>
+  	  <input type="email" name="email" value="<?php echo $email; ?>">
+  	</div>
+<table align="center">
+<tr>
+<td> 1.	When the teacher give me a lecture about the instruction I understand better.</td>
+ </tr>
+<tr>
+<td></td>
+<td><input type="radio" name="audita" value="YES">YES</td>
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="audita" value="NO">NO</td>
+</tr>
+<td> 2.	I try to learn by doing something in class.</td>
+ 
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="expera" value="YES">YES</td>
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="expera" value="NO">NO</td>
+</tr>
+<tr>
+<td>  3.	I get to work more when I work with others.</td>
+ 
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="sociala" value="YES">YES</td>
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="sociala" value="NO">NO</td>
+</tr>
+<tr>
+<td>4.	I learn better when something by reading what’s taught on the board.</td>
+ 
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="soloa" value="YES">YES</td>
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="soloa" value="NO">NO</td>
+</tr>
+<tr>
+<td>5.	When someone explains me the facts I learn better.</td>
+ </tr>
+<tr>
+<td></td>
+<td><input type="radio" name="theora" value="YES">YES</td>
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="theora" value="NO">NO</td>
+</tr>
+<tr>
+<td> 6.	When I do something, I learn better.</td>
+ </tr>
+<tr>
+<td></td>
+<td><input type="radio" name="reflecta" value="YES">YES</td>
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="reflecta" value="NO">NO</td>
+</tr>
+<tr>
+<td>  7.	I remember better what I’ve heard than what I have read.</td>
+ </tr>
+<tr>
+<td></td>
+<td><input type="radio" name="pragma" value="YES">YES</td>
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="pragma" value="NO">NO</td>
+</tr>
+<tr>
+<td>8.I learn more when I study alone.</td>
+ </tr>
+<tr>
+<td></td>
+<td><input type="radio" name="auditb" value="YES">YES</td>
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="auditb" value="NO">NO</td>
+</tr>
+<tr>
+<td>9.I remember more when I make something as a project.</td>
+ </tr>
+<tr>
+<td></td>
+<td><input type="radio" name="concpa" value="YES">YES</td>
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="concpa" value="NO">NO</td>
+</tr>
+<tr>
+<td>10.	I enjoy learning in class by doing experiment</td>
+ </tr>
+<tr>
+<td></td>
+<td><input type="radio" name="activa" value="YES">YES</td>
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="activa" value="NO">NO</td>
+</tr>
+<tr>
+<td>11.	I learn better when teacher gives a verbal only, lectures in class.</td>
+ </tr>
+<tr>
+<td></td>
+<td><input type="radio" name="visuala" value="YES">YES</td>
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="visuala" value="NO">NO</td>
+</tr>
+<tr>
+<td> 12.I learn better when I make drawing while studying</td>
+ </tr>
+<tr>
+<td></td>
+<td><input type="radio" name="auditc" value="YES">YES</td>
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="auditc" value="NO">NO</td>
+</tr>
+<tr>
+<td>13.When I work alone, I learn better.</td>
+ </tr>
+<tr>
+<td></td>
+<td><input type="radio" name="solob" value="YES">YES</td>
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="solob" value="NO">NO</td>
+</tr>
+<tr>
+<td> 14.I understand better in class when I’m participating in discussions.</td>
+ </tr>
+<tr>
+<td></td>
+<td><input type="radio" name="activb" value="YES">YES</td>
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="activb" value="NO">NO</td>
+</tr>
+<tr>
+<td>15.	I enjoy working on assessments in group work</td>
+ </tr>
+<tr>
+<td></td>
+<td><input type="radio" name="socialb" value="YES">YES</td>
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="socialb" value="NO">NO</td>
+</tr>
+<tr>
+<td>16.	When I build something, I remember better about it.</td>
+ </tr>
+<tr>
+<td></td>
+<td><input type="radio" name="pragmb" value="YES">YES</td>
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="pragmb" value="NO">NO</td>
+</tr>
+<tr>
+<td> 17.For understanding better I prefer reading than listening.</td>
+ </tr>
+<tr>
+<td></td>
+<td><input type="radio" name="experb" value="YES">YES</td>
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="experb" value="NO">NO</td>
+</tr>
+<tr>
+<td> 18.I prefer working on project, than reading about it.</td>
+ </tr>
+<tr>
+<td></td>
+<td><input type="radio" name="pragmc" value="YES">YES</td>
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="pragmc" value="NO">NO</td>
+</tr>
+<tr>
+<td>19.	After reading facts, I try to implement them.</td>
+ </tr>
+<tr>
+<td></td>
+<td><input type="radio" name="experc" value="YES">YES</td>
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="experc" value="NO">NO</td>
+</tr>
+<tr>
+<td>20.When I have read a topic I try to make my own theories</td>
+ </tr>
+<tr>
+<td></td>
+<td><input type="radio" name="concpb" value="YES">YES</td>
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="concpb" value="NO">NO</td>
+</tr>
+<tr>
+<td>21.	While studying I prefer pre-defined facts.</td>
+ </tr>
+<tr>
+<td></td>
+<td><input type="radio" name="reflectb" value="YES">YES</td>
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="reflectb" value="NO">NO</td>
+</tr>
+<tr>
+<td>22.	I try to do new things to learn about it.</td>
+ </tr>
+<tr>
+<td></td>
+<td><input type="radio" name="activc" value="YES">YES</td>
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="activc" value="NO">NO</td>
+</tr>
+<tr>
+<td>23.	While learning I adapt and observe theories step-by-step.</td>
+ </tr>
+<tr>
+<td></td>
+<td><input type="radio" name="theorb" value="YES">YES</td>
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="theorb" value="NO">NO</td>
+</tr>
+<tr>
+<td> 24.I like to view more graphs and tables while studying.</td>
+ </tr>
+<tr>
+<td></td>
+<td><input type="radio" name="visualb" value="YES">YES</td>
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="visualb" value="NO">NO</td>
+</tr>
+<tr>
+<td> 25.I like to attend seminars and conferences for more knowledge</td>
+ </tr>
+<tr>
+<td></td>
+<td><input type="radio" name="socialc" value="YES">YES</td>
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="socialc" value="NO">NO</td>
+</tr>
+<tr>
+<td><input type="submit" name="submit" value="submit">  </td>
+</tr>
+</table>
+
+</f
